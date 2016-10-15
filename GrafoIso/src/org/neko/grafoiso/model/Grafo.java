@@ -10,5 +10,6 @@ package org.neko.grafoiso.model;
  * @author ariel
  */
 public class Grafo {
+    neko :v 
     
 }
